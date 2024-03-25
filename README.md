@@ -1,6 +1,6 @@
 # :man: "Não é a linguagem de programação que define o programador, mas sim sua lógica.".
 
-#### :computer: I'm a Java junior development student at the Senac University Center!![Homem](https://blogdokelmer.files.wordpress.com/2009/06/fighomemletracaminhando.gif )
+#### :computer: I'm a development student at the Senac University Center!![Homem](https://blogdokelmer.files.wordpress.com/2009/06/fighomemletracaminhando.gif )
 
 ### Languages & Tools 🛠
 
