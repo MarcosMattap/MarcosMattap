@@ -7,7 +7,9 @@
  ![Javascript]() ![Html5](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html5&logoColor=red) ![Css3](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css3&logoColor=blue) ![C #](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=green) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java) 
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![react]() ![react-native]() ![JASON](https://img.shields.io/badge/dynamic/json)
+![react]() ![react-native]() ![JASON](.. image:: https://img.shields.io/badge/dynamic/json
+   :alt: Dynamic JSON Badge
+)
 
    
 
