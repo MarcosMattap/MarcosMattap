@@ -11,19 +11,17 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java) 
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
 </div>
 
- ![Javascript](https://camo.githubusercontent.com/ef7c194339eed8b2d2d7cf5df54899790d896e7488092302a7bf34321bb0fd7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d79656c6c6f77) 
- ![Html5](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html5&logoColor=red) 
- ![Css3](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css3&logoColor=blue) 
- ![C #](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=green) 
- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java) 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
-![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) 
-![react-native]() 
-![JASON]()
+
+
+
+
+
 
    
 
