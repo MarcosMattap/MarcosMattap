@@ -12,10 +12,10 @@
   <img align="center" alt="React-native" height="30" width="40" src="https://miro.medium.com/max/1400/1*QY5S4senfFh-mIViSi5A_Q.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="VsCode" height="30" width="40" src="https://mobilemancerblog.blob.core.windows.net/blog/2020/08/vs-code-logo-transp.png">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://th.bing.com/th/id/OIP.TOW-NvId0BLLWfPDFfJiTAHaEK?rs=1&pid=ImgDetMain">
   <img align="center" alt="JSON" height="30" width="40" src="https://th.bing.com/th/id/OIP.T7c2clShSOclttLVRk5UlgHaHa?rs=1&pid=ImgDetMain">
   <img align="center" alt="GIT" height="30" width="40" src="https://vetores.org/wp-content/uploads/git.png">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://th.bing.com/th/id/OIP.TOW-NvId0BLLWfPDFfJiTAHaEK?rs=1&pid=ImgDetMain">
+  <img align="center" alt="VsCode" height="30" width="40" src="https://mobilemancerblog.blob.core.windows.net/blog/2020/08/vs-code-logo-transp.png">
 
 </div>
 
