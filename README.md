@@ -12,7 +12,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![react]() 
+![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) 
 ![react-native]() 
 ![JASON]()
 
