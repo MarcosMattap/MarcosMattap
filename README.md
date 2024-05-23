@@ -3,6 +3,15 @@
 #### :computer: I'm a development student at the Senac University Center!![Homem](https://blogdokelmer.files.wordpress.com/2009/06/fighomemletracaminhando.gif )
 
 ### Languages & Tools 🛠
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 
  ![Javascript](https://camo.githubusercontent.com/ef7c194339eed8b2d2d7cf5df54899790d896e7488092302a7bf34321bb0fd7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d79656c6c6f77) 
  ![Html5](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html5&logoColor=red) 
