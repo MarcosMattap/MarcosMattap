@@ -3,6 +3,7 @@
 #### :computer: I'm a development student at the Senac University Center!![Homem](https://blogdokelmer.files.wordpress.com/2009/06/fighomemletracaminhando.gif )
 
 ### Languages & Tools 🛠
+<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,17 +19,7 @@
   <img align="center" alt="VsCode" height="30" width="40" src="https://mobilemancerblog.blob.core.windows.net/blog/2020/08/vs-code-logo-transp.png">
 
 </div>
-
-
-
-
-
-
-
-   
-
-
-
+<br>
 <div align="center">
   <a href="https://github.com/MarcosMattap">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosMattap&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
